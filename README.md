@@ -10,32 +10,6 @@ This repository showcases my video-editing portfolio, creative projects, and wor
 
 ## ✨ About the Project
 
-Ze-Ro Studios is a video-editing poTurning ideas into visual stories.
-
-Welcome to **Ze-Ro Studios** — a creative space dedicated to video editing, visual storytelling, and bringing ideas to life through engaging digital content.
-
-This repository showcases my video-editing portfolio, creative projects, and work in progress.
-
-### Turning ideas into visual stories.
-
-Welcome to **Ze-Ro Studios** — a creative space dedicated to video editing, visual storytelling, and bringing ideas to life through engaging digital content.
-
-This repository showcases my video-editing portfolio, creative projects, and work in progress.
-
----
-
-## ✨ About the Project
-
-Ze-Ro Studios is a video-editing poTurning ideas into visual stories.
-
-Welcome to **Ze-Ro Studios** — a creative space dedicated to video editing, visual storytelling, and bringing ideas to life through engaging digital content.
-
-This repository showcases my video-editing portfo
-
----
-
-## ✨ About the Project
-
 Ze-Ro Studios is a video-editing portfolio built to showcase creative work, editing skills, and visual storytelling.
 
 The goal is to create a clean, engaging ortfolio built to showcase creative work, editing skills, and visual storytelling.
